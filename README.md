@@ -2,4 +2,5 @@
 
 cloudendure migration
 
-µ¥ÀÌÅÍ ÀÌ°ü
+AWS ë°ì´í„° ì´ê´€
+
