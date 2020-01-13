@@ -2,5 +2,6 @@
 
 cloudendure migration
 
-AWS 데이터 이관
+URL HomePage : https://www.cloudendure.com
+    Login    : https://console.cloudendure.com
 
