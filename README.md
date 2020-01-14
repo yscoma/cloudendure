@@ -1,7 +1,5 @@
-# cloudendure
+# Cloudendure migration
 
-cloudendure migration
-
-URL HomePage : https://www.cloudendure.com
-    Login    : https://console.cloudendure.com
+## URL HomePage : https://www.cloudendure.com
+##     Login    : https://console.cloudendure.com
 
